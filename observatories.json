@@ -1,12 +1,72 @@
 [
     {
-        "Id": "",
-        "Name": "",
-        "Country": "",
-        "Established": ,
+        "Id": "GENAO",
+        "Name": "Georgian National Astrophysical Observatory",
+        "Country": "Georgia",
+        "Established": 1932,
         "Image": "",
-        "Altitude": ,
-        "Latitude": ,
-        "Longitude": 
+        "Altitude": 1650,
+        "Latitude": 41.7540,
+        "Longitude" 42.8208
+    },
+    {
+        "Id": "Allegheny",
+        "Name": "Allegheny Observatory",
+        "Country": "US",
+        "Established": 1859,
+        "Image": "",
+        "Altitude": 380,
+        "Latitude": 40.4826,
+        "Longitude" -80.0208
+    },
+    {
+        "Id": "AUG",
+        "Name": "Ankara University Observatory",
+        "Country": "Turkey",
+        "Established": 1963,
+        "Image": "",
+        "Altitude": 1256,
+        "Latitude": 39.8420,
+        "Longitude" 32.7776
+    },
+    {
+        "Id": "APO",
+        "Name": "Apache Point Observatory",
+        "Country": "US",
+        "Established": 1985,
+        "Image": "",
+        "Altitude": 2788,
+        "Latitude": 32.7805,
+        "Longitude" -105.8200
+    },
+    {
+        "Id": "Asiago",
+        "Name": "Asiago Astrophysical Observatory",
+        "Country": "Italy",
+        "Established": 1942,
+        "Image": "",
+        "Altitude": 1045,
+        "Latitude": 45.8663,
+        "Longitude" 11.5255
+    },
+    {
+        "Id": "AAO",
+        "Name": "Australian Astronomical Observatory",
+        "Country": "Australia",
+        "Established": 1971,
+        "Image": "",
+        "Altitude": 1164,
+        "Latitude": -33.7962,
+        "Longitude" 151.1451
+    },
+    {
+        "Id": "Bayfordbury",
+        "Name": "Bayfordbury Observatory",
+        "Country": "UK",
+        "Established": 1969,
+        "Image": "",
+        "Altitude": 66,
+        "Latitude": 51.7752,
+        "Longitude" -0.0944
     },
 ]
