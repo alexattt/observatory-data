@@ -7,7 +7,7 @@
         "Image": "",
         "Altitude": 1650,
         "Latitude": 41.7540,
-        "Longitude" 42.8208
+        "Longitude": 42.8208
     },
     {
         "Id": "Allegheny",
@@ -17,7 +17,7 @@
         "Image": "",
         "Altitude": 380,
         "Latitude": 40.4826,
-        "Longitude" -80.0208
+        "Longitude": -80.0208
     },
     {
         "Id": "AUG",
@@ -27,7 +27,7 @@
         "Image": "",
         "Altitude": 1256,
         "Latitude": 39.8420,
-        "Longitude" 32.7776
+        "Longitude": 32.7776
     },
     {
         "Id": "APO",
@@ -37,7 +37,7 @@
         "Image": "",
         "Altitude": 2788,
         "Latitude": 32.7805,
-        "Longitude" -105.8200
+        "Longitude": -105.8200
     },
     {
         "Id": "Asiago",
@@ -47,7 +47,7 @@
         "Image": "",
         "Altitude": 1045,
         "Latitude": 45.8663,
-        "Longitude" 11.5255
+        "Longitude": 11.5255
     },
     {
         "Id": "AAO",
@@ -57,7 +57,7 @@
         "Image": "",
         "Altitude": 1164,
         "Latitude": -33.7962,
-        "Longitude" 151.1451
+        "Longitude": 151.1451
     },
     {
         "Id": "Bayfordbury",
@@ -67,6 +67,6 @@
         "Image": "",
         "Altitude": 66,
         "Latitude": 51.7752,
-        "Longitude" -0.0944
+        "Longitude": -0.0944
     },
 ]
