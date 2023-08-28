@@ -69,4 +69,254 @@
         "Latitude": 51.7752,
         "Longitude": -0.0944
     },
+    {
+        "Id": "Belogradchik",
+        "Name": "Belogradchik Observatory",
+        "Country": "Bulgaria",
+        "Established": 1961,
+        "Image": "",
+        "Altitude": 650,
+        "Latitude": 43.6226,
+        "Longitude": 22.6750
+    },
+    {
+        "Id": "Besancon",
+        "Name": "Besançon Astronomical Observatory",
+        "Country": "France",
+        "Established": 1884,
+        "Image": "",
+        "Altitude": 360,
+        "Latitude": 47.2487,
+        "Longitude": 5.9896
+    },
+    {
+        "Id": "CalarAlto",
+        "Name": "Calar Alto Observatory",
+        "Country": "Spain",
+        "Established": 1975,
+        "Image": "",
+        "Altitude": 2168,
+        "Latitude": 37.2208,
+        "Longitude": -2.5467
+    },
+    {
+        "Id": "Cerro",
+        "Name": "Cerro Armazones Observatory",
+        "Country": "Chile",
+        "Established": 2005,
+        "Image": "",
+        "Altitude": 2817,
+        "Latitude": -24.5978,
+        "Longitude": -70.2322
+    },
+    {
+        "Id": "DRAO",
+        "Name": "Dominion Radio Astrophysical Observatory",
+        "Country": "Canada",
+        "Established": 1960,
+        "Image": "",
+        "Altitude": 545,
+        "Latitude": 49.3215,
+        "Longitude": -119.6199
+    },
+    {
+        "Id": "Istanbul",
+        "Name": "Istanbul University Observatory",
+        "Country": "Turkey",
+        "Established": 1936,
+        "Image": "",
+        "Altitude": 410,
+        "Latitude": 41.0120,
+        "Longitude": 28.9654
+    },
+    {
+        "Id": "Keck",
+        "Name": "W. M. Keck Observatory",
+        "Country": "US",
+        "Established": 1936,
+        "Image": "",
+        "Altitude": 4145,
+        "Latitude": 19.8259,
+        "Longitude": -155.4746
+    },
+    {
+        "Id": "KPNO",
+        "Name": "Kitt Peak National Observatory",
+        "Country": "US",
+        "Established": 1958,
+        "Image": "",
+        "Altitude": 2096,
+        "Latitude": 31.9583,
+        "Longitude": -111.5967
+    },
+    {
+        "Id": "LaSilla",
+        "Name": "La Silla Observatory",
+        "Country": "Chile",
+        "Established": 1964,
+        "Image": "",
+        "Altitude": 2400,
+        "Latitude": -29.2562,
+        "Longitude": -70.7380
+    },
+    {
+        "Id": "LAMOST",
+        "Name": "Large Sky Area Multi-Object Fibre Spectroscopic Telescope",
+        "Country": "China",
+        "Established": 2009,
+        "Image": "",
+        "Altitude": 960,
+        "Latitude": 37.8956,
+        "Longitude": 114.9042
+    },
+    {
+        "Id": "Lick",
+        "Name": "Lick Observatory",
+        "Country": "US",
+        "Established": 1881,
+        "Image": "",
+        "Altitude": 1283,
+        "Latitude": 37.3414,
+        "Longitude": -121.6429
+    },
+    {
+        "Id": "Metsahovi",
+        "Name": "Metsähovi Radio Observatory",
+        "Country": "Finland",
+        "Established": 1974,
+        "Image": "",
+        "Altitude": 79,
+        "Latitude": 60.2187,
+        "Longitude": 24.3936
+    },
+    {
+        "Id": "Modra",
+        "Name": "Modra Observatory",
+        "Country": "Slovakia",
+        "Established": 1988,
+        "Image": "",
+        "Altitude": 531,
+        "Latitude": 48.3734,
+        "Longitude": 17.2711
+    },
+    {
+        "Id": "MAO",
+        "Name": "Molėtai Astronomical Observatory",
+        "Country": "Lithuania",
+        "Established": 1969,
+        "Image": "",
+        "Altitude": 200,
+        "Latitude": 55.3170,
+        "Longitude": 25.5606
+    },
+    {
+        "Id": "MIRO",
+        "Name": "Mount Abu InfraRed Observatory",
+        "Country": "India",
+        "Established": 1990,
+        "Image": "",
+        "Altitude": 1680,
+        "Latitude": 24.6548,
+        "Longitude": 72.7792
+    },
+    {
+        "Id": "MountPleasant",
+        "Name": "Mount Pleasant Radio Observatory",
+        "Country": "Australia",
+        "Established": 1986,
+        "Image": "",
+        "Altitude": 43,
+        "Latitude": -42.8036,
+        "Longitude": 147.4402
+    },
+    {
+        "Id": "TUG",
+        "Name": "TÜBİTAK National Observatory",
+        "Country": "Turkey",
+        "Established": 1997,
+        "Image": "",
+        "Altitude": 2450,
+        "Latitude": 36.8997,
+        "Longitude": 30.6539
+    },
+    {
+        "Id": "Nice",
+        "Name": "Nice Observatory",
+        "Country": "France",
+        "Established": 1878,
+        "Image": "",
+        "Altitude": 372,
+        "Latitude": 43.7273,
+        "Longitude": 7.2990
+    },
+    {
+        "Id": "OSO",
+        "Name": "Onsala Space Observatory",
+        "Country": "Sweden",
+        "Established": 1949,
+        "Image": "",
+        "Altitude": 20,
+        "Latitude": 57.3961,
+        "Longitude": 11.9257
+    },
+    {
+        "Id": "Rome",
+        "Name": "Rome Observatory",
+        "Country": "Italy",
+        "Established": 1938,
+        "Image": "",
+        "Altitude": 420,
+        "Latitude": 41.9225,
+        "Longitude": 12.4524
+    },
+    {
+        "Id": "Rozhen",
+        "Name": "Rozhen Observatory",
+        "Country": "Bulgaria",
+        "Established": 1981,
+        "Image": "",
+        "Altitude": 1759,
+        "Latitude": 41.6965,
+        "Longitude": 24.7419
+    },
+    {
+        "Id": "Tartu",
+        "Name": "Tartu Observatory",
+        "Country": "Estonia",
+        "Established": 1964,
+        "Image": "",
+        "Altitude": 48,
+        "Latitude": 58.2657,
+        "Longitude": 26.4659
+    },
+    {
+        "Id": "Tuorla",
+        "Name": "Tuorla Observatory",
+        "Country": "Finland",
+        "Established": 1952,
+        "Image": "",
+        "Altitude": 60,
+        "Latitude": 60.4156,
+        "Longitude": 22.4445
+    },
+    {
+        "Id": "Wise",
+        "Name": "Wise Observatory",
+        "Country": "Israel",
+        "Established": 1971,
+        "Image": "",
+        "Altitude": 875,
+        "Latitude": 30.5973,
+        "Longitude": 34.7623
+    },
+    {
+        "Id": "WIRO",
+        "Name": "Wyoming Infrared Observatory",
+        "Country": "US",
+        "Established": 1975,
+        "Image": "",
+        "Altitude": 2943,
+        "Latitude": 41.0971,
+        "Longitude": -105.9772
+    },
 ]
