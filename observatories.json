@@ -4,7 +4,7 @@
         "Name": "Georgian National Astrophysical Observatory",
         "Country": "Georgia",
         "Established": 1932,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/GENAO.jpg",
         "Altitude": 1650,
         "Latitude": 41.7540,
         "Longitude": 42.8208
@@ -14,7 +14,7 @@
         "Name": "Allegheny Observatory",
         "Country": "US",
         "Established": 1859,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Allegheny.jpg",
         "Altitude": 380,
         "Latitude": 40.4826,
         "Longitude": -80.0208
@@ -24,7 +24,7 @@
         "Name": "Ankara University Observatory",
         "Country": "Turkey",
         "Established": 1963,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/AUG.jpg",
         "Altitude": 1256,
         "Latitude": 39.8420,
         "Longitude": 32.7776
@@ -34,7 +34,7 @@
         "Name": "Apache Point Observatory",
         "Country": "US",
         "Established": 1985,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/APO.jpg",
         "Altitude": 2788,
         "Latitude": 32.7805,
         "Longitude": -105.8200
@@ -44,7 +44,7 @@
         "Name": "Asiago Astrophysical Observatory",
         "Country": "Italy",
         "Established": 1942,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Asiago.jpg",
         "Altitude": 1045,
         "Latitude": 45.8663,
         "Longitude": 11.5255
@@ -54,7 +54,7 @@
         "Name": "Australian Astronomical Observatory",
         "Country": "Australia",
         "Established": 1971,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/AAO.jpg",
         "Altitude": 1164,
         "Latitude": -33.7962,
         "Longitude": 151.1451
@@ -64,7 +64,7 @@
         "Name": "Bayfordbury Observatory",
         "Country": "UK",
         "Established": 1969,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Bayfordbury.jpg",
         "Altitude": 66,
         "Latitude": 51.7752,
         "Longitude": -0.0944
@@ -74,7 +74,7 @@
         "Name": "Belogradchik Observatory",
         "Country": "Bulgaria",
         "Established": 1961,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Belogradchik.jpg",
         "Altitude": 650,
         "Latitude": 43.6226,
         "Longitude": 22.6750
@@ -84,7 +84,7 @@
         "Name": "Besançon Astronomical Observatory",
         "Country": "France",
         "Established": 1884,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Besancon.jpg",
         "Altitude": 360,
         "Latitude": 47.2487,
         "Longitude": 5.9896
@@ -94,7 +94,7 @@
         "Name": "Calar Alto Observatory",
         "Country": "Spain",
         "Established": 1975,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/CalarAlto.jpg",
         "Altitude": 2168,
         "Latitude": 37.2208,
         "Longitude": -2.5467
@@ -104,7 +104,7 @@
         "Name": "Cerro Armazones Observatory",
         "Country": "Chile",
         "Established": 2005,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Cerro.png",
         "Altitude": 2817,
         "Latitude": -24.5978,
         "Longitude": -70.2322
@@ -114,7 +114,7 @@
         "Name": "Dominion Radio Astrophysical Observatory",
         "Country": "Canada",
         "Established": 1960,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/DRAO.jpg",
         "Altitude": 545,
         "Latitude": 49.3215,
         "Longitude": -119.6199
@@ -124,7 +124,7 @@
         "Name": "Istanbul University Observatory",
         "Country": "Turkey",
         "Established": 1936,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Istanbul.jpeg",
         "Altitude": 410,
         "Latitude": 41.0120,
         "Longitude": 28.9654
@@ -134,7 +134,7 @@
         "Name": "W. M. Keck Observatory",
         "Country": "US",
         "Established": 1936,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Keck.jpg",
         "Altitude": 4145,
         "Latitude": 19.8259,
         "Longitude": -155.4746
@@ -144,7 +144,7 @@
         "Name": "Kitt Peak National Observatory",
         "Country": "US",
         "Established": 1958,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/KPNO.jpg",
         "Altitude": 2096,
         "Latitude": 31.9583,
         "Longitude": -111.5967
@@ -154,7 +154,7 @@
         "Name": "La Silla Observatory",
         "Country": "Chile",
         "Established": 1964,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/LaSilla.jpg",
         "Altitude": 2400,
         "Latitude": -29.2562,
         "Longitude": -70.7380
@@ -164,7 +164,7 @@
         "Name": "Large Sky Area Multi-Object Fibre Spectroscopic Telescope",
         "Country": "China",
         "Established": 2009,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/LAMOST.jpg",
         "Altitude": 960,
         "Latitude": 37.8956,
         "Longitude": 114.9042
@@ -174,7 +174,7 @@
         "Name": "Lick Observatory",
         "Country": "US",
         "Established": 1881,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Lick.jpeg",
         "Altitude": 1283,
         "Latitude": 37.3414,
         "Longitude": -121.6429
@@ -184,7 +184,7 @@
         "Name": "Metsähovi Radio Observatory",
         "Country": "Finland",
         "Established": 1974,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Metsahovi.jpg",
         "Altitude": 79,
         "Latitude": 60.2187,
         "Longitude": 24.3936
@@ -194,17 +194,17 @@
         "Name": "Modra Observatory",
         "Country": "Slovakia",
         "Established": 1988,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Modra.jpg",
         "Altitude": 531,
         "Latitude": 48.3734,
         "Longitude": 17.2711
     },
     {
-        "Id": "MAO",
+        "Id": "Moletai",
         "Name": "Molėtai Astronomical Observatory",
         "Country": "Lithuania",
         "Established": 1969,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Moletai.jpeg",
         "Altitude": 200,
         "Latitude": 55.3170,
         "Longitude": 25.5606
@@ -214,7 +214,7 @@
         "Name": "Mount Abu InfraRed Observatory",
         "Country": "India",
         "Established": 1990,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/MIRO.jpg",
         "Altitude": 1680,
         "Latitude": 24.6548,
         "Longitude": 72.7792
@@ -224,7 +224,7 @@
         "Name": "Mount Pleasant Radio Observatory",
         "Country": "Australia",
         "Established": 1986,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/MountPleasant.jpg",
         "Altitude": 43,
         "Latitude": -42.8036,
         "Longitude": 147.4402
@@ -234,7 +234,7 @@
         "Name": "TÜBİTAK National Observatory",
         "Country": "Turkey",
         "Established": 1997,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/TUG.jpg",
         "Altitude": 2450,
         "Latitude": 36.8997,
         "Longitude": 30.6539
@@ -244,7 +244,7 @@
         "Name": "Nice Observatory",
         "Country": "France",
         "Established": 1878,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Nice.jpg",
         "Altitude": 372,
         "Latitude": 43.7273,
         "Longitude": 7.2990
@@ -254,7 +254,7 @@
         "Name": "Onsala Space Observatory",
         "Country": "Sweden",
         "Established": 1949,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/OSO.jpg",
         "Altitude": 20,
         "Latitude": 57.3961,
         "Longitude": 11.9257
@@ -264,7 +264,7 @@
         "Name": "Rome Observatory",
         "Country": "Italy",
         "Established": 1938,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Rome.jpg",
         "Altitude": 420,
         "Latitude": 41.9225,
         "Longitude": 12.4524
@@ -274,7 +274,7 @@
         "Name": "Rozhen Observatory",
         "Country": "Bulgaria",
         "Established": 1981,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Rozhen.jpg",
         "Altitude": 1759,
         "Latitude": 41.6965,
         "Longitude": 24.7419
@@ -284,7 +284,7 @@
         "Name": "Tartu Observatory",
         "Country": "Estonia",
         "Established": 1964,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Tartu.JPG",
         "Altitude": 48,
         "Latitude": 58.2657,
         "Longitude": 26.4659
@@ -294,7 +294,7 @@
         "Name": "Tuorla Observatory",
         "Country": "Finland",
         "Established": 1952,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Tuorla.jpeg",
         "Altitude": 60,
         "Latitude": 60.4156,
         "Longitude": 22.4445
@@ -304,7 +304,7 @@
         "Name": "Wise Observatory",
         "Country": "Israel",
         "Established": 1971,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/Wise.jpg",
         "Altitude": 875,
         "Latitude": 30.5973,
         "Longitude": 34.7623
@@ -314,7 +314,7 @@
         "Name": "Wyoming Infrared Observatory",
         "Country": "US",
         "Established": 1975,
-        "Image": "",
+        "Image": "https://raw.githubusercontent.com/alexattt/observatory-data/main/WIRO.jpg",
         "Altitude": 2943,
         "Latitude": 41.0971,
         "Longitude": -105.9772
